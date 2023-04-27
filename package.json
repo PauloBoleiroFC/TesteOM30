@@ -1,0 +1,37 @@
+{
+  "name": "Teste_om_30",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "aammui-uploader": "^0.1.0",
+    "axios": "^0.21.0",
+    "core-js": "^3.8.3",
+    "roboto-fontface": "*",
+    "v-upload-image": "^1.0.0",
+    "v-uploader": "^1.8.0",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.0.0",
+    "vue-weblineindia-image-crop-upload": "^1.0.1",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "miragejs": "^0.1.47",
+    "node-sass": "^8.0.0",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.2.2",
+    "vite": "^3.1.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12"
+  }
+}
